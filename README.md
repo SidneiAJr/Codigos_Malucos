@@ -1,5 +1,7 @@
 # 🧠 Códigos Malucos — Laboratório de Refatoração e Leitura de Código Legado
 
+### Observação: Codigo gerado com IA | Para estudo de Profissão.
+
 Este repositório não é bonito.  
 Não é polido.  
 Não é exemplo de "código limpo" (ainda).
