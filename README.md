@@ -1,4 +1,4 @@
-# 🧠 Códigos Malucos — Laboratório de Refatoração
+# 🧠 Códigos Malucos | Logica Maluca  — Laboratório de Refatoração
 
 *"Código ruim não é erro. Errado é não entender por que ele é ruim."*
 
